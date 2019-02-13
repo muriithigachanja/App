@@ -1,0 +1,4 @@
+#Wed Feb 13 12:09:58 EAT 2019
+base.0=/mnt/DC502A68502A4A1A/collabo/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
